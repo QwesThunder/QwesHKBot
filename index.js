@@ -65,16 +65,16 @@ const { uploadimg } = require('./lib/uploadimg')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Angga.\n' //Ini Nama kontak lu
+            + 'FN:QwesHK \n' //Ini Nama kontak lu
             + 'ORG: Creator Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6285283427860:+62 85283427860\n'  //ini kontak/nomor lu
+            + 'TEL;type=CELL;type=VOICE;waid=6283807449268:+62 83807449268\n'  //ini kontak/nomor lu
             + 'END:VCARD'
             
 const vcard1 = 'BEGIN:VCARD\n' // JAN DI GANTI
             + 'VERSION:3.0\n' // JAN DI GANTI
-            + 'FN:Arifi Razzaqq\n' // JAN DI GANTI TOD NTAR EROR
+            + 'FN:ZasXCar\n' // JAN DI GANTI TOD NTAR EROR
             + 'ORG:Owner 2;\n' // GANTI AJA
-            + 'TEL;type=CELL;type=VOICE;waid=6289646775713:+62 896-4677-5713\n' // JAN DI GANTI TOD
+            + 'TEL;type=CELL;type=VOICE;waid=6283807449268:+62 83807449268\n' // JAN DI GANTI TOD
             + 'END:VCARD' // JAN DI GANTI
         
 numbernye = '0@s.whatsapp.net'
@@ -87,7 +87,7 @@ cr1 = '*By AnggaGanzz*'
 freply = '*Ahayyy*'
 cr = '*AnggaGanzzNihbod*' //fake reply
 LoLKey = "YOUR_APIKEY" // BELI SU?
-TobzKey = "291F6uRDLIhlSpHp1hOy" //APIKEY TOBZ
+TobzKey = "Tobzzz17" //APIKEY TOBZ
 XteamKey = "AnggaBotWa" //BELI SU
 AnggaKey = "AnggaGanz" // itu Di bawah Desk yt gw
 namo = 'AnggaGanzz' //Bisa ubah / ga tapi hati hati
@@ -96,8 +96,8 @@ fakereply = 'Xbotxyz' //fake reply
 fakereply1 = 'Xbotxyz' //fakereply
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6285283427860@s.whatsapp.net"]   //ganti nomor lu! 
-const pacarNumber = ["6289646775713@s.whatsapp.net"]  //ganti nomor lu!  
+const ownerNumber = ["6283807449268@s.whatsapp.net"]   //ganti nomor lu! 
+const pacarNumber = ["6283807449268@s.whatsapp.net"]  //ganti nomor lu!  
 /************************************/
 
        
